@@ -54,4 +54,4 @@ The accompanying Jupyter notebook, `Neural_Network_Project.ipynb`, provides a st
 
 ## Contributors
 - Ali Nikan
-- Sina Mohammadiniyaki
+- Sina Niyaki
